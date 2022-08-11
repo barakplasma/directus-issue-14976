@@ -4,3 +4,5 @@
 1. change package json to "directus": "9.14.5",
 1. delete data.db
 1. move chinook into directory and change .env
+1. git commit 9.14.5
+1. change package json to "directus": "9.15.1",

@@ -1,0 +1,17 @@
+{
+  "name": "issue-14976",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "directus start"
+  },
+  "keywords": [],
+  "author": "Michael Salaverry",
+  "license": "ISC",
+  "dependencies": {
+    "directus": "9.14.5",
+    "sqlite3": "^5.0.11"
+  }
+}
